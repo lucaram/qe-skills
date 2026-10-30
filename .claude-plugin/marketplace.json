@@ -1,0 +1,11 @@
+{
+  "name": "qe-skills",
+  "owner": { "name": "AI QE Lead" },
+  "plugins": [
+    {
+      "name": "qe",
+      "source": "./",
+      "description": "Approved QE skills: PR review and more."
+    }
+  ]
+}

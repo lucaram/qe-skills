@@ -1,0 +1,6 @@
+{
+  "name": "qe",
+  "version": "1.0.0",
+  "description": "Approved QE skills: PR review and more. Changes go through a PR approved by the AI QE Lead.",
+  "author": { "name": "AI QE Lead" }
+}
